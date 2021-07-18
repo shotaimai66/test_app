@@ -1,1 +1,0 @@
-bundle exec puma -C /var/app/current/test_app-main/config/puma.rb
